@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi, I am Vansh Baranwal
+writing code!
 <!--
 **vanshbaranwal/vanshbaranwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vanshbaranwal&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vanshbaranwal&bg_color=000000&color=f2e9e9&line=fc0303&point=49d416&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
